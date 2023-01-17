@@ -7,6 +7,10 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  1. convert string to array in order to use reverse() which used with arrays.
+  2. reverse string-converted array.
+  3. convert array to string
+  4. compare original word with reverse string.
 */
 
 /*
